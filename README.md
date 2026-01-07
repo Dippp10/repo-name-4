@@ -1,1 +1,3 @@
-# repo-name-4
+# Repo-Name-4
+This repository is part of my PR contribution plan. 
+Added basic README structure and instructions.
